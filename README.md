@@ -1,6 +1,6 @@
 # 阅读记录
  
-**阅读记录**作为一个项目展读，受到了[阮一峰同学](https://github.com/ruanyf/reading-list)的启发。
+**阅读记录**作为一个项目展开，受到了[阮一峰同学](https://github.com/ruanyf/reading-list)的启发。
 
 -------------------
 （注：:+1: 表示推荐，:x: 表示差评）
